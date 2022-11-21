@@ -13,7 +13,6 @@
 * React Hook Form with Validation + Yup
 * Animated Framer Motion
 * Image Lazy
-* More than 50 pages
 * Dark/Light Mode
 * Change Color Theme
 * Right-to-Left layout support
